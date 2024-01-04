@@ -1,0 +1,68 @@
+Filetype: IR signals file
+Version: 1
+# 
+name: Power
+type: parsed
+protocol: SIRC20
+address: 3A 0F 00 00
+command: 15 00 00 00
+# 
+name: Go
+type: parsed
+protocol: SIRC20
+address: 3A 0F 00 00
+command: 65 00 00 00
+# 
+name: Up
+type: parsed
+protocol: SIRC20
+address: 3A 0F 00 00
+command: 74 00 00 00
+# 
+name: Down
+type: parsed
+protocol: SIRC20
+address: 3A 0F 00 00
+command: 75 00 00 00
+# 
+name: Left
+type: parsed
+protocol: SIRC20
+address: 3A 0F 00 00
+command: 34 00 00 00
+# 
+name: Right
+type: parsed
+protocol: SIRC20
+address: 3A 0F 00 00
+command: 33 00 00 00
+# 
+name: Home
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 2337 783 773 783 1558 783 775 784 2337 3097 1554 84225 2337 781 776 786 773 3098 2337 3121 1531 58803 2310 784 773 788 771 3123 6993
+# 
+name: Back
+type: parsed
+protocol: SIRC20
+address: 3A 0F 00 00
+command: 4C 00 00 00
+# 
+name: View
+type: raw
+frequency: 38000
+duty_cycle: 0.330000
+data: 2336 781 775 783 1557 761 797 786 773 765 794 788 3869 57242 2335 783 773 786 773 3102 823 735 824 739 3891 56932 2333 763 794 765 794 3100 6991
+# 
+name: Recent
+type: parsed
+protocol: SIRC20
+address: 3A 0F 00 00
+command: 4B 00 00 00
+# 
+name: Options
+type: parsed
+protocol: SIRC20
+address: 3A 0F 00 00
+command: 61 00 00 00
