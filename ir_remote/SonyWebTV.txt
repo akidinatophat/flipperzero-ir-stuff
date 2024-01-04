@@ -1,0 +1,12 @@
+REMOTE: /ext/infrared/SonyWebTV.ir
+UP: Up
+DOWN: Down
+LEFT: Left
+RIGHT: Right
+OK: Go
+BACK: Back
+UPHOLD: View
+DOWNHOLD: Home
+LEFTHOLD: Recent
+RIGHTHOLD: Options
+OKHOLD: Power
